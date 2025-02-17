@@ -7,7 +7,7 @@ Dataset
 
 The dataset used for this analysis contains information about industrial copper transactions, including variables such as selling price, quantities, and status (won or lost). It provides a comprehensive view of the copper market and factors that influence the outcomes of transactions.
 
-Project Learnings
+Project Learnings:
 
 The main learnings from this project are as follows:
 
@@ -29,7 +29,7 @@ Evaluation and Model Selection:
 
 Evaluate the performance of regression and classification models using appropriate metrics such as    mean squared error (MSE), accuracy, precision, and recall. Select the best-performing models based on these metrics.
 
-Requirements
+Requirements:
 
 To run this project, the following libraries are needed:
 
@@ -40,7 +40,7 @@ To run this project, the following libraries are needed:
 * Seaborn: A data visualization library built on top of Matplotlib.
 Make sure these libraries are installed in your Python environment before running the project.
 
-Methodology
+Methodology:
 
 1.Data Loading:
 
